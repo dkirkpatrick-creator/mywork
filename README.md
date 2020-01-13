@@ -1,2 +1,2 @@
 # mywork
-Just a repository filled with my work
+Just a repository filled with my work. This is, in reality, a test of github as I try to familiarize myself with it as I continue on my career path in CSC. Carry on...
